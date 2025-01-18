@@ -89,6 +89,50 @@ Increased transparency and collaboration through easy sharing and accessibility.
 This project is a step toward building smarter and more effective data solutions for the insurance industry. Contributions and feedback are welcome to further refine and expand its functionality.
 
 ## Download Dashboard
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Secure Download</title>
+</head>
+<body>
+    <h1>Download the Power BI Report</h1>
+    <p>To access the Power BI dashboard, please follow these steps:</p>
+    
+    <!-- Step 1: CAPTCHA Verification -->
+    <div id="captcha-section">
+        <p>Please complete the CAPTCHA to verify you're not a robot:</p>
+        <!-- Embed your CAPTCHA here -->
+        <form action="/verify-captcha" method="post">
+            <!-- CAPTCHA widget here -->
+        </form>
+    </div>
+
+    <!-- Step 2: Payment Process -->
+    <div id="payment-section" style="display:none;">
+        <p>After completing the CAPTCHA, please proceed with payment to download the file:</p>
+        <!-- Integrate your payment gateway here -->
+        <button onclick="payWithPayPal()">Pay with PayPal</button>
+    </div>
+
+    <!-- Step 3: Download Link (Shown after successful payment) -->
+    <div id="download-link-section" style="display:none;">
+        <p>Thank you for your payment! You can now download the Power BI report:</p>
+        <a href="https://github.com/Sumanth-b-s/Insurance-Insights-Dashboard/blob/main/NEW%20INSURENCE.pbix">Download Power BI File</a>
+    </div>
+
+    <script>
+        // After CAPTCHA and Payment Success, show the download link
+        function payWithPayPal() {
+            // Integrate PayPal payment logic here
+            // Once payment is successful, show the download link
+            document.getElementById("download-link-section").style.display = "block";
+        }
+    </script>
+</body>
+</html>
+
 <a href="https://github.com/Sumanth-b-s/Insurance-Insights-Dashboard/blob/main/NEW%20INSURENCE.pbix">Download here</a>
 
 
