@@ -88,10 +88,8 @@ Enhanced operational efficiency by identifying bottlenecks in claims and custome
 Increased transparency and collaboration through easy sharing and accessibility.
 This project is a step toward building smarter and more effective data solutions for the insurance industry. Contributions and feedback are welcome to further refine and expand its functionality.
 
-
-
-
-
+##Download Dashboard
+<a href="C:\Users\SUMANTH B S\Downloads\NEW INSURENCE.pbix">Dashboard</a>
 
 
 
