@@ -89,6 +89,7 @@ Increased transparency and collaboration through easy sharing and accessibility.
 This project is a step toward building smarter and more effective data solutions for the insurance industry. Contributions and feedback are welcome to further refine and expand its functionality.
 
 ## Download Dashboard
+<a href="https://github.com/Sumanth-b-s/Insurance-Insights-Dashboard/blob/main/NEW%20INSURENCE.pbix">Download here</a>
 
 
 
