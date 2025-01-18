@@ -55,6 +55,14 @@ This repository contains a Power BI dashboard designed to provide actionable ins
 
 ## Dashboard
 ![Screenshot 2025-01-18 234459](https://github.com/user-attachments/assets/340b7e68-355e-45b1-9bdc-9690b83e8c78)
+![Screenshot 2025-01-18 234530](https://github.com/user-attachments/assets/9e7a59fc-c01b-4dc0-a7b8-b3bba2a004f7)
+![Screenshot 2025-01-18 234553](https://github.com/user-attachments/assets/e3a73cce-bd0e-4bca-a191-60ce499b2523)
+![Screenshot 2025-01-18 234614](https://github.com/user-attachments/assets/dfbf3e3f-7af3-4c93-aede-49580dcf3866)
+![Screenshot 2025-01-18 234656](https://github.com/user-attachments/assets/8a8f9261-12d2-44ff-967b-5b976e21127f)
+
+
+
+
 
 
 
