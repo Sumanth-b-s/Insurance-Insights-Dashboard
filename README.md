@@ -90,6 +90,4 @@ This project is a step toward building smarter and more effective data solutions
 
 ## Download Dashboard
 ### Download the Power BI File
-To download the Power BI file, please complete the payment process on our secure page:
-
 [Click here to complete payment and download the file](https://github.com/Sumanth-b-s/Insurance-Insights-Dashboard/blob/main/NEW%20INSURENCE.pbix)
