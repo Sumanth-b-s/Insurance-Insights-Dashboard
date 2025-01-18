@@ -92,45 +92,4 @@ This project is a step toward building smarter and more effective data solutions
 ### Download the Power BI File
 To download the Power BI file, please complete the payment process on our secure page:
 
-[Click here to complete payment and download the file](<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Secure File Download</title>
-</head>
-<body>
-    <h1>Download Insurance Insights Dashboard</h1>
-    <p>To download the "Insurance Insights Dashboard" Power BI file, please follow these steps:</p>
-
-    <!-- Step 1: CAPTCHA Verification -->
-    <div id="captcha-section">
-        <p>Please complete the CAPTCHA verification:</p>
-        <!-- Add CAPTCHA widget here (e.g., Google reCAPTCHA) -->
-        <form action="/verify-captcha" method="post">
-            <!-- CAPTCHA widget -->
-        </form>
-    </div>
-
-    <!-- Step 2: Payment Section -->
-    <div id="payment-section" style="display:none;">
-        <p>Please complete your payment to access the download link:</p>
-        <!-- PayPal or Stripe button integration -->
-        <button onclick="payWithPayPal()">Pay with PayPal</button>
-    </div>
-
-    <!-- Step 3: Download Link (after successful payment) -->
-    <div id="download-link-section" style="display:none;">
-        <p>Thank you for your payment! You can now download the Power BI report:</p>
-        <a href="https://github.com/Sumanth-b-s/Insurance-Insights-Dashboard/raw/main/NEW%20INSURENCE.pbix" download>Download Power BI File</a>
-    </div>
-
-    <script>
-        function payWithPayPal() {
-            // Integrate PayPal payment logic here
-            // After successful payment, show the download link
-            document.getElementById("download-link-section").style.display = "block";
-        }
-    </script>
-</body>
-</html>)
+[Click here to complete payment and download the file](https://github.com/Sumanth-b-s/Insurance-Insights-Dashboard/blob/main/NEW%20INSURENCE.pbix)
