@@ -53,5 +53,9 @@ This repository contains a Power BI dashboard designed to provide actionable ins
 
 -Publish and Share: Save the .pbix file, publish it to the Power BI Service, and share it with stakeholders by providing access or generating a shareable link.
 
+## Dashboard
+![Screenshot 2025-01-18 234459](https://github.com/user-attachments/assets/340b7e68-355e-45b1-9bdc-9690b83e8c78)
+
+
 
 
