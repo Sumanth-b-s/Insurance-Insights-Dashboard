@@ -63,23 +63,22 @@ This repository contains a Power BI dashboard designed to provide actionable ins
 ## Project Insights: Power BI Dashboard for Insurance Insights
 This project demonstrates the development of an interactive Power BI dashboard aimed at uncovering key metrics and trends within the insurance industry. By leveraging data visualizations, stakeholders can make informed decisions and identify areas for improvement across various aspects of the business, such as claims processing, customer retention, and financial performance.
 
-Key Insights Gained:
 Claims Analysis:
-
 Identified the most common types of claims and their distribution across regions.
 Analyzed average claim settlement times to measure operational efficiency.
-Policy Performance:
 
+Policy Performance:
 Visualized the distribution of policies based on type and demographics, helping to understand market segmentation.
 Highlighted trends in premium collections and policy renewals over time.
-Customer Insights:
 
+Customer Insights:
 Segmented customers by age, region, and policy preferences to identify target demographics.
 Measured retention rates and flagged areas for improving customer satisfaction.
-Financial Insights:
 
+Financial Insights:
 Tracked premium-to-payout ratios to evaluate profitability.
 Analyzed year-over-year revenue growth and its impact on the company’s financial health.
+
 ## Conclusion
 The Power BI dashboard is a comprehensive tool for analyzing insurance data, offering a clear and actionable view of the business’s performance. By integrating interactive filters and dynamic visuals, the dashboard empowers stakeholders to explore data trends and make strategic decisions.
 
