@@ -6,6 +6,7 @@ This repository contains a Power BI dashboard designed to provide actionable ins
 
 ## Questions(KPIs)
 -Total Claims Amount: Sum of the claim column.
+
 -Average Claim Amount: Average of the claim column.
 -Claims by Region: Total and average claims grouped by region.
 -Claims by Age Group: Segmented analysis of claim based on age ranges.
