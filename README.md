@@ -17,7 +17,12 @@ This repository contains a Power BI dashboard designed to provide actionable ins
 
 -BMI and Claim Correlation: Visualization showing how bmi influences claims.
 
-## Dashboard Interaction <a href=https://github.com/Sumanth-b-s/Insurance-Insights-Dashboard/blob/main/Screenshot%202025-01-18%20234656.png,https://github.com/Sumanth-b-s/Insurance-Insights-Dashboard/blob/main/Screenshot%202025-01-18%20234614.png,https://github.com/Sumanth-b-s/Insurance-Insights-Dashboard/blob/main/Screenshot%202025-01-18%20234553.png,https://github.com/Sumanth-b-s/Insurance-Insights-Dashboard/blob/main/Screenshot%202025-01-18%20234530.png,https://github.com/Sumanth-b-s/Insurance-Insights-Dashboard/blob/main/Screenshot%202025-01-18%20234459.png> view dashboard </a>
+## Dashboard Interaction 
+<a href=https://github.com/Sumanth-b-s/Insurance-Insights-Dashboard/blob/main/Screenshot%202025-01-18%20234656.png> view dashboard Screen 1 </a>
+<a href=https://github.com/Sumanth-b-s/Insurance-Insights-Dashboard/blob/main/Screenshot%202025-01-18%20234614.png> view dashboard Screen 2 </a>
+<a href=https://github.com/Sumanth-b-s/Insurance-Insights-Dashboard/blob/main/Screenshot%202025-01-18%20234553.png> view dashboard Screen 3 </a>
+<a href=https://github.com/Sumanth-b-s/Insurance-Insights-Dashboard/blob/main/Screenshot%202025-01-18%20234530.png> view dashboard Screen 4 </a>
+<a href=https://github.com/Sumanth-b-s/Insurance-Insights-Dashboard/blob/main/Screenshot%202025-01-18%20234459.png> view dashboard Screen 5 </a>
 
 
 
